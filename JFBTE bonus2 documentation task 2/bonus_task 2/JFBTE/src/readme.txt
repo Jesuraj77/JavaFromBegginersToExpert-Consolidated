@@ -1,0 +1,1 @@
+write a java program which multiply a given number with the 2, 4, 8 using bit wise operator.
